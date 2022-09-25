@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandra-mk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
-![Codewars](https://github.r2v.ch/codewars?user=alexandra_K&top_languages=true&theme=nightowl&stroke=white)
+<details>
+<summary><strong>Codewars</strong></summary>
+<br/>
+<img src="https://github.r2v.ch/codewars?user=alexandra_K&top_languages=true&theme=nightowl&stroke=white">
+</details>

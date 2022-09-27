@@ -14,7 +14,7 @@
             while sharpening my skills in C# and JavaScript.
           </li>
 <li>I’m looking to collaborate with other developers.</li>
-<li>Connect with me: <a href="https://www.linkedin.com/in/alexandra-maria-kefalloniti-6a7b5b24b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/></a></li>
+<li>Connect with me: &ensp;<a href="https://www.linkedin.com/in/alexandra-maria-kefalloniti-6a7b5b24b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/></a></li>
 </ul>
 <br/>
 <h2><img src="https://media0.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif?cid=790b7611a9a0d3b129e204291eac7e3428f32bf59ad128a0&rid=giphy.gif&ct=s" width="60"/> Languages and Tools I Have Used and Learned</h2>

@@ -1,19 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20everyone!🌺&fontSize=50&animation=fadeIn&theme=cobalt"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20everyone!🌺&fontSize=45&animation=fadeIn&theme=cobalt"/>
 </p>
 
 <!--**alexandra-mk/alexandra-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ### I'm Alexandra!
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me</h2>
@@ -42,28 +31,34 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
+<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="github" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Fork.svg" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Fork.svg" alt="fork" width="30" height="30"/>
 </p>
 <br/>
 <h2><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/> Stats</h2>
 <details>
 <summary><strong>GitHub</strong></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=alexandra-mk&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=alexandra-mk&show_icons=true&theme=radical&hide_border=true">
 </details>
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra-mk&show_icons=true&theme=radical)-->
 <details>
 <summary><strong>Most Used Languages</strong></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandra-mk&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandra-mk&layout=compact&theme=radical&hide_border=true">
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandra-mk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 </details>
-<details>
+<!--<details>
 <summary><strong>Codewars</strong></summary>
 <br/>
 <img src="https://github.r2v.ch/codewars?user=alexandra_K&top_languages=true&theme=nightowl&stroke=white">
+</details>-->
+<details>
+<summary><strong>Codewars</strong></summary>
+<br/>
+<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=alexandra_K&card&customcolor=bg:141321_fg:7edac9_text:fd428d_logo:141321">
 </details>
 <br/>
 <p align="center">

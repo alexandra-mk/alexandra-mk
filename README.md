@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20everyone!🌺&fontSize=45&animation=fadeIn&theme=cobalt"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello%20World!🌺&fontSize=45&animation=fadeIn&theme=cobalt"/>
 </p>
 
 <!--**alexandra-mk/alexandra-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

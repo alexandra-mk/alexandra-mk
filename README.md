@@ -61,8 +61,8 @@
 <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=alexandra_K&card&customcolor=bg:141321_fg:7edac9_text:fd428d_logo:141321">
 </details>
 <br/>
-<p align="center">
+<!--<p align="center">
 <img src="https://github.com/alexandra-mk/alexandra-mk/blob/output/github-contribution-grid-snake.svg" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&theme=cobalt"/>
-</p>
+</p>-->
 
